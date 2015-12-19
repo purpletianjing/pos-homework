@@ -6,5 +6,5 @@
 4. 以上步骤需要写到一张纸上，且不能有涂改痕迹
 5. 拍照后上传到github
 
-###作业图片
+###作业图片(详见该目录下的assignmentIdea.jpg)
  ![assignment picture](./assignmentIdea.jpg)
