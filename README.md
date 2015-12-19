@@ -5,3 +5,6 @@
 3. 输入输出要有非常明确的格式，例如：input: inputs = [{barcode: '',count:''}];   output: simpleItem = [{barcode:'',count:'',name:'',unit:''}];
 4. 以上步骤需要写到一张纸上，且不能有涂改痕迹
 5. 拍照后上传到github
+
+###作业图片
+ ![assignment picture](./assignmentIdea.jpg)
